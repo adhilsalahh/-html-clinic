@@ -1,0 +1,39 @@
+.loca{
+    width: 25px;
+    height: 25px;
+    float: left;
+    padding-top: 14px;
+}
+.cloc{
+    width: 25px;
+    height: 25px;
+    float: left;
+    padding-top: 15px;
+    padding-right: 5px;
+}
+.call{
+    width: 25px;
+    height: 25px;
+    float: left;
+    padding-top: 15px;
+}
+div.mycontainer div{
+    display:inline-block;
+    }
+.About{
+    width: 100px;
+    border-radius: 20px; 
+     margin-top: 100px;
+
+}
+.About:hover{
+background-color: rgb(139, 130, 130);
+}
+p{
+    width:300px;
+}
+div.adhi div{
+    float: left;
+    margin-top: 10%;
+
+}
